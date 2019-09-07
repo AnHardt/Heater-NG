@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "A:/Heater-NG/Heater-NG/.pio/build/black_f407ve/firmware.elf",
+            "executable": "a:/Heater-NG/Heater-NG/.pio/build/black_f407ve/firmware.elf",
             "toolchainBinDir": "C:/Users/andre/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "svdPath": "C:/Users/andre/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
+            "svdPath": "C:/Users/andre/.platformio/platforms/ststm32@src-15e0e87f41a00aa2f9602f71367ac29c/misc/svd/STM32F40x.svd",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -25,9 +25,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "A:/Heater-NG/Heater-NG/.pio/build/black_f407ve/firmware.elf",
+            "executable": "a:/Heater-NG/Heater-NG/.pio/build/black_f407ve/firmware.elf",
             "toolchainBinDir": "C:/Users/andre/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "svdPath": "C:/Users/andre/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
+            "svdPath": "C:/Users/andre/.platformio/platforms/ststm32@src-15e0e87f41a00aa2f9602f71367ac29c/misc/svd/STM32F40x.svd",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]

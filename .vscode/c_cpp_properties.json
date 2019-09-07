@@ -6,8 +6,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "A:/Heater-NG/Heater-NG/include",
-                "A:/Heater-NG/Heater-NG/src",
+                "a:/Heater-NG/Heater-NG/include",
+                "a:/Heater-NG/Heater-NG/src",
                 "C:/Users/andre/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
                 "C:/Users/andre/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32",
                 "C:/Users/andre/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/LL",
@@ -37,8 +37,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "A:/Heater-NG/Heater-NG/include",
-                    "A:/Heater-NG/Heater-NG/src",
+                    "a:/Heater-NG/Heater-NG/include",
+                    "a:/Heater-NG/Heater-NG/src",
                     "C:/Users/andre/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
                     "C:/Users/andre/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32",
                     "C:/Users/andre/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32/LL",
